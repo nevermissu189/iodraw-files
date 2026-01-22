@@ -79,7 +79,7 @@
           <mxGeometry x="281" y="1198" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eKjzkp6eDc2CuFBv3zfF-11" value="橡塑 (塑料储存)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="143.5" y="1306" width="203" height="49" as="geometry" />
+          <mxGeometry x="50" y="1314" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eKjzkp6eDc2CuFBv3zfF-12" value="纸类 (纸类储存)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="1306" width="203" height="49" as="geometry" />
