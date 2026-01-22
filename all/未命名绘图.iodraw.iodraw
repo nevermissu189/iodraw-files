@@ -81,7 +81,7 @@
         <mxCell id="eKjzkp6eDc2CuFBv3zfF-11" value="橡塑 (塑料储存)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="231" y="1306" width="203" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="eKjzkp6eDc2CuFBv3zfF-12" value="纸类 -&gt; 纸类储存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eKjzkp6eDc2CuFBv3zfF-12" value="纸类 (纸类储存)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="484" y="1306" width="203" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eKjzkp6eDc2CuFBv3zfF-13" value="7.磁选机" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
